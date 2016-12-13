@@ -30,7 +30,7 @@ class Base_Controller extends CI_Controller {
           *  company()     yang berfungsi untuk memanggil nama dari perusahaan, dll.
           *  lokasi : application/helpers/
          */
-        $this->load->helper(array('apps'));
+        $this->load->helper(array('app'));
 
 
         /**

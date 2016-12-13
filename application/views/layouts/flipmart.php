@@ -8,7 +8,7 @@
 <meta name="google-site-verification" content="L7bfWQWTz4h-_lQTy_ejqFG27ZaT4S62GqM84uXPVNo" />
 <meta name="msvalidate.01" content="902E7AF68C55683B9FA7FBA0BE0E240E" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title><?php echo apps_name(); ?> - Sistem Manajemen Toko Online</title>
+<title><?php echo name_apps(); ?></title>
 <link rel="shortcut icon" type="image/x-icon" href="<?php echo path_assets(); ?>img/icon.png" />
 <meta name="description" content="Sistem Manajemen Persediaan Barang Untuk Retail, Toko Online, Drop Shipping yang mudah dan aman."/>
 <meta name="keywords" content="inventory, gudang, stock, warehouse management"/>
@@ -32,8 +32,8 @@
 
 <!-- facebook META -->
 <meta property="og:type"   content="article" />
-<meta property="og:site_name" content="<?php echo apps_name(); ?>">
-<meta property="og:title"  content="<?php echo apps_name(); ?>">
+<meta property="og:site_name" content="<?php echo name_apps(); ?>">
+<meta property="og:title"  content="<?php echo name_apps(); ?>">
 <meta property="og:url"    content="<?php echo base_url(); ?>">
 <meta property="og:description" content="Sistem Manajemen Toko Online, Warehouse, Retail, Drop Shipping, Reseller. Mengelola usaha toko online menjadi lebih mudah dan nyaman.">
 <meta property="og:image" content='<?php echo path_assets(); ?>img/shop.jpg'>

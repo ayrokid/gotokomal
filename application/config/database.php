@@ -77,11 +77,11 @@ if(ENVIRONMENT == 'development'){
     $host = 'localhost';
     $user = 'root';
     $pass = 'root';
-    $dbase= 'retaildb';
+    $dbase= 'getjasa';
 }else{
     $host = 'localhost';
     $user = 'silvanix_root';
-    $pass = 'ni4wulan!';
+    $pass = '';
     $dbase= 'silvanix_retaildb';
 }
 
